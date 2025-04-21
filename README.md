@@ -1,6 +1,6 @@
 
 
-### <h3 align="center"> 🎮 새로운 도전을 즐기는 개발자 유재명 입니다
+### <h3 align="center"> 🎮 새로운 도전을 즐기는 개발자 유재명 입니다!
 
 <div align="center">
 <br/>
@@ -8,7 +8,7 @@
 ![Image](https://github.com/user-attachments/assets/cfa4ef18-3e10-45ec-839d-c40bcd965a0a)
 <br/><br/>
 
-<div align="center"> <h3 align="center"> 🛠 Stack 🛠 </h3>
+<div align="center"> <h3 align="center">  ✨ Stack ✨ </h3>
 <img src="https://img.shields.io/badge/C++-6699CB?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSherp-08BD80?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-A100FF?style=flat-square&logo=&logoColor=white"/>
@@ -19,15 +19,22 @@
 <img src="https://img.shields.io/badge/Notion-EEEEEE?style=flat-square&logo=notion&logoColor=black"/>
 <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/>
 
-<br/><br/><br/>
+<br/><br/>
+
+<div align="center"> <h3 align="center">  🕹 Projects 🕹 </h3>
+
+
+<br/><br/>
 
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoojaemyung&show_icons=true&theme=radical)        
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoojaemyung)](https://github.com/yoojaemyung/github-readme-stats)
 
+<br/><br/>
 
-<br/><br/><br/><br/>
+
+
 
 
 
