@@ -26,7 +26,7 @@
   <h3 align="center">
 <a href="https://github.com/yoojaemyung/CatSnackBar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yoojaemyung&repo=CatSnackBar&theme=react&hide_border=true&show_icons=false"/></a>
     
-<a href="https://github.com/yoojaemyung/CatSnackBar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kangminjii&repo=UnderCooked&theme=react&hide_border=true&show_icons=false"/></a>
+<a href="https://github.com/kangminjii/UnderCooked"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kangminjii&repo=UnderCooked&theme=react&hide_border=true&show_icons=false"/></a>
 
 
 <br/><br/>
