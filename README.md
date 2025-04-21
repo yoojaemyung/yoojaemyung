@@ -22,6 +22,8 @@
 <br/><br/>
 
 <div align="center"> <h3 align="center">  🕹 Projects 🕹 </h3>
+  <h3 align="left">
+<a href="https://github.com/yoojaemyung/CatSnackBar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yoojaemyung&repo=CatSnackBar&theme=react&hide_border=true&show_icons=false"/></a>
 
 
 <br/><br/>
