@@ -5,7 +5,7 @@
 <div align="center">
 <br/>
   
-![Image](https://github.com/user-attachments/assets/cfa4ef18-3e10-45ec-839d-c40bcd965a0a)
+![Image](https://github.com/user-attachments/assets/cfa4ef18-3e10-45ec-839d-c40bcd965a0a)  
 <br/><br/>
 
 <div align="center"> <h3 align="center">  ✨ Stack ✨ </h3>
