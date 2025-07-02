@@ -24,6 +24,9 @@
 <div align="center"> <h3 align="center">  🕹 Projects 🕹 </h3>
   
   <h3 align="center">
+
+<a href="https://github.com/yoojaemyung/MusicPingPon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yoojaemyung&repo=MusicPingPon&theme=react&hide_border=true&show_icons=false"/></a>
+
 <a href="https://github.com/yoojaemyung/CatSnackBar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yoojaemyung&repo=CatSnackBar&theme=react&hide_border=true&show_icons=false"/></a>
     
 <a href="https://github.com/kangminjii/UnderCooked"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kangminjii&repo=UnderCooked&theme=react&hide_border=true&show_icons=false"/></a>
