@@ -25,7 +25,7 @@
   
   <h3 align="center">
 
-<a href="https://github.com/yoojaemyung/MusicPingPong"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yoojaemyung&repo=MusicPingPong&theme=react&hide_border=true&show_icons=false"/></a>
+<a href="https://github.com/yoojaemyung/CatSnackBar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yoojaemyung&repo=MusicPingPong&theme=react&hide_border=true&show_icons=false"/></a>
 
 <a href="https://github.com/yoojaemyung/CatSnackBar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yoojaemyung&repo=CatSnackBar&theme=react&hide_border=true&show_icons=false"/></a>
     
