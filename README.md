@@ -21,27 +21,20 @@
 
 <br/><br/>
 
+<div align="center">
+
 <div align="center"> <h3 align="center">  🕹 Projects 🕹 </h3>
   
 <h3 align="center">
- 
+  
 <a href="https://github.com/yoojaemyung/MusicPingPong"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yoojaemyung&repo=MusicPingPong&theme=react&hide_border=true&show_icons=false&nocache=1"/></a>
 
 <a href="https://github.com/yoojaemyung/CatSnackBar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yoojaemyung&repo=CatSnackBar&theme=react&hide_border=true&show_icons=false"/></a>
     
 <a href="https://github.com/kangminjii/UnderCooked"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kangminjii&repo=UnderCooked&theme=react&hide_border=true&show_icons=false"/></a>
-
-
-
 <br/><br/>
-
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoojaemyung)](https://github.com/yoojaemyung/github-readme-stats)
-
 <br/><br/>
-
 
 
 
